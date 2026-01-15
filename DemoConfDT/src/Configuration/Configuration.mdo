@@ -345,8 +345,8 @@
   <commonForms>CommonForm.ФормаВыбораПользователяСистемыВзаимодействия</commonForms>
   <catalogs>Catalog.Catalog</catalogs>
   <catalogs>Catalog.Банки</catalogs>
-  <catalogs>Catalog.ВидыЦен</catalogs>
   <catalogs>Catalog.Валюты</catalogs>
+  <catalogs>Catalog.ВидыЦен</catalogs>
   <catalogs>Catalog.Встречи</catalogs>
   <catalogs>Catalog.ВходящиеПисьма</catalogs>
   <catalogs>Catalog.ЗначенияХарактеристик</catalogs>
@@ -374,10 +374,10 @@
   <documentJournals>DocumentJournal.ДокументыПродаж</documentJournals>
   <documentJournals>DocumentJournal.ФинансовыеДокументы</documentJournals>
   <enums>Enum.Enum</enums>
-  <enums>Enum.ВидыМобильныхОтчетов</enums>
   <enums>Enum.PushУведомления</enums>
   <enums>Enum.ВидНастройкиАутентификацииSMTP</enums>
   <enums>Enum.ВидСодержимогоВходящегоПисьма</enums>
+  <enums>Enum.ВидыМобильныхОтчетов</enums>
   <enums>Enum.ВидыТоваров</enums>
   <enums>Enum.ИспользоватьПровайдерГеопозиционирования</enums>
   <enums>Enum.НазначениеХарактеристик</enums>

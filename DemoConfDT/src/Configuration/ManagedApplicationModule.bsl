@@ -10,6 +10,21 @@ Procedure AfterExchangeDataWithMainServer(NotificationOfSynchrorizationEnabled, 
 	Notify("");
 EndProcedure
 
+////////////////////////////////////////////////////////////////////////////////
+
+Procedure OnGlobalSearchResultActionChoice(ResultItem, Action)
+	
+	If Action = "OrderDocument" Then
+		
+		FillingValues = New Structure("Customer", ResultItem.Value);
+		Parameters = New Structure("FillingValues", FillingValues);
+
+		OpenForm("Document.OrderDocument.ObjectForm", Parameters);
+		
+	EndIf;
+	
+EndProcedure
+
 Перем ДрайверСканераШтрихкодов Экспорт; // Сканер штрихкодов
 Перем ИдентификаторФоновогоЗадания Экспорт;
 
