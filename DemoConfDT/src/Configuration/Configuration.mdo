@@ -363,6 +363,7 @@
   <catalogs>Catalog.Товары</catalogs>
   <catalogs>Catalog.ХранилищеВариантовОтчетов</catalogs>
   <catalogs>Catalog.ХранимыеФайлы</catalogs>
+  <documents>Document.Document</documents>
   <documents>Document.Заказ</documents>
   <documents>Document.ОперацияПоУчетуТоваров</documents>
   <documents>Document.Оплата</documents>
