@@ -2,6 +2,14 @@
 // ПЕРЕМЕННЫЕ МОДУЛЯ 
 //
 
+////////////////////////////////////////////////////////////////////////////////
+Var BarcodeScannerDriver Export; 
+Var BackgroundJobIdentifier Export;
+
+Procedure AfterExchangeDataWithMainServer(NotificationOfSynchrorizationEnabled, StandardProcessing)
+	Notify("");
+EndProcedure
+
 Перем ДрайверСканераШтрихкодов Экспорт; // Сканер штрихкодов
 Перем ИдентификаторФоновогоЗадания Экспорт;
 
