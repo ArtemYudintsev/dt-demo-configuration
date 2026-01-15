@@ -372,14 +372,15 @@
   <documents>Document.РасходТовара</documents>
   <documentJournals>DocumentJournal.ДокументыПродаж</documentJournals>
   <documentJournals>DocumentJournal.ФинансовыеДокументы</documentJournals>
-  <enums>Enum.ВидыТоваров</enums>
+  <enums>Enum.Enum</enums>
+  <enums>Enum.ВидыМобильныхОтчетов</enums>
+  <enums>Enum.PushУведомления</enums>
   <enums>Enum.ВидНастройкиАутентификацииSMTP</enums>
   <enums>Enum.ВидСодержимогоВходящегоПисьма</enums>
-  <enums>Enum.PushУведомления</enums>
-  <enums>Enum.ВидыМобильныхОтчетов</enums>
-  <enums>Enum.СостоянияЗаказов</enums>
-  <enums>Enum.НазначениеХарактеристик</enums>
+  <enums>Enum.ВидыТоваров</enums>
   <enums>Enum.ИспользоватьПровайдерГеопозиционирования</enums>
+  <enums>Enum.НазначениеХарактеристик</enums>
+  <enums>Enum.СостоянияЗаказов</enums>
   <reports>Report.ВзаимосвязьПродажТоваров</reports>
   <reports>Report.ДашбордПродажи</reports>
   <reports>Report.ДинамикаПродаж</reports>
