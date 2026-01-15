@@ -402,12 +402,13 @@
   <dataProcessors>DataProcessor.УправлениеПолнотекстовымПоиском</dataProcessors>
   <dataProcessors>DataProcessor.УправлениеСистемойВзаимодействия</dataProcessors>
   <dataProcessors>DataProcessor.ЭлектроннаяПочта</dataProcessors>
+  <informationRegisters>InformationRegister.InformationRegister</informationRegisters>
   <informationRegisters>InformationRegister.КурсыВалют</informationRegisters>
-  <informationRegisters>InformationRegister.ЦеныТоваров</informationRegisters>
+  <informationRegisters>InformationRegister.МобильныеОтчеты</informationRegisters>
   <informationRegisters>InformationRegister.СостояниеВходящихПисем</informationRegisters>
   <informationRegisters>InformationRegister.СостояниеИсходящихПисем</informationRegisters>
   <informationRegisters>InformationRegister.Характеристики</informationRegisters>
-  <informationRegisters>InformationRegister.МобильныеОтчеты</informationRegisters>
+  <informationRegisters>InformationRegister.ЦеныТоваров</informationRegisters>
   <accumulationRegisters>AccumulationRegister.Взаиморасчеты</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.Продажи</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.ТоварныеЗапасы</accumulationRegisters>
