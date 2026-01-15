@@ -2706,7 +2706,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Configuration.ДемонстрационноеПриложение</name>
+		<name>Configuration.DemoApplication</name>
 		<right>
 			<name>UpdateDataBaseConfiguration</name>
 			<value>true</value>

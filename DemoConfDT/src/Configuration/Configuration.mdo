@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a3a9949e-f1f0-4b3a-821f-a85a9fb2fb3c">
-  <name>ДемонстрационноеПриложение</name>
+  <name>DemoApplication</name>
   <synonym>
     <key>ru</key>
-    <value>Демонстрационное приложение</value>
+    <value>Demo application</value>
   </synonym>
   <comment> </comment>
   <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="71dad3e5-411e-4faa-9358-8eccdce47784"/>
@@ -15,7 +15,6 @@
   <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="5a2019b4-0318-45ff-bb33-434c4d019855"/>
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <usePurposes>PersonalComputer</usePurposes>
-  <scriptVariant>Russian</scriptVariant>
   <vendor>Фирма &quot;1С&quot;</vendor>
   <version>1.0.39.1</version>
   <includeHelpInContents>true</includeHelpInContents>
