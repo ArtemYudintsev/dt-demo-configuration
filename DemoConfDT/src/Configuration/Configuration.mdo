@@ -344,6 +344,7 @@
   <commonForms>CommonForm.Звонок</commonForms>
   <commonForms>CommonForm.ФормаВыбораПользователяСистемыВзаимодействия</commonForms>
   <catalogs>Catalog.Catalog</catalogs>
+  <catalogs>Catalog.Catalog1</catalogs>
   <catalogs>Catalog.Банки</catalogs>
   <catalogs>Catalog.Валюты</catalogs>
   <catalogs>Catalog.ВидыЦен</catalogs>
