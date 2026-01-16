@@ -414,6 +414,7 @@
   <informationRegisters>InformationRegister.СостояниеИсходящихПисем</informationRegisters>
   <informationRegisters>InformationRegister.Характеристики</informationRegisters>
   <informationRegisters>InformationRegister.ЦеныТоваров</informationRegisters>
+  <accumulationRegisters>AccumulationRegister.AccumulationRegister</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.Взаиморасчеты</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.Продажи</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.ТоварныеЗапасы</accumulationRegisters>
