@@ -288,33 +288,34 @@
   <commonCommands>CommonCommand.ОстаткиТоваровНаСкладахКоманда</commonCommands>
   <commandGroups>CommandGroup.Информация</commandGroups>
   <commandGroups>CommandGroup.Печать</commandGroups>
-  <constants>Constant.ВыборПровайдераГеопозиционирования</constants>
+  <constants>Constant.Constant</constants>
+  <constants>Constant.ИспользоватьСетьПередачиДанных</constants>
+  <constants>Constant.SSLIMAP</constants>
   <constants>Constant.SSLPOP3</constants>
   <constants>Constant.SSLSMTP</constants>
   <constants>Constant.АдресIMAPСервера</constants>
   <constants>Constant.АдресPOP3Сервера</constants>
   <constants>Constant.АдресSMTPСервера</constants>
   <constants>Constant.ВалютаУчета</constants>
-  <constants>Constant.SSLIMAP</constants>
-  <constants>Constant.ИмяПровайдера</constants>
+  <constants>Constant.ВоспроизводитьТекстУведомления</constants>
+  <constants>Constant.ВыборПровайдераГеопозиционирования</constants>
   <constants>Constant.ИдентификаторПриложенияWNS</constants>
   <constants>Constant.ИмяОтправителяПочтовогоСообщения</constants>
-  <constants>Constant.ТолькоБесплатные</constants>
+  <constants>Constant.ИмяПровайдера</constants>
   <constants>Constant.ИспользоватьAPNS</constants>
   <constants>Constant.ИспользоватьFCM</constants>
   <constants>Constant.ИспользоватьIMAP</constants>
   <constants>Constant.ИспользоватьPushУведомления</constants>
   <constants>Constant.ИспользоватьWNS</constants>
   <constants>Constant.ИспользоватьСотовуюСеть</constants>
-  <constants>Constant.ИспользоватьСетьПередачиДанных</constants>
   <constants>Constant.ИспользоватьСпутники</constants>
   <constants>Constant.КлючCервераОтправителяFCM</constants>
   <constants>Constant.КлючПриложенияWNS</constants>
   <constants>Constant.КодНовогоУзлаПланаОбмена</constants>
   <constants>Constant.ЛогинСервисаПередачиPushУведомлений</constants>
   <constants>Constant.МаркерДоступаWNS</constants>
-  <constants>Constant.УчетПоСкладам</constants>
-  <constants>Constant.ВоспроизводитьТекстУведомления</constants>
+  <constants>Constant.ОтметкаНаФотоснимкеДата</constants>
+  <constants>Constant.ОтметкаНаФотоснимкеТекст</constants>
   <constants>Constant.ПарольIMAP</constants>
   <constants>Constant.ПарольPOP3</constants>
   <constants>Constant.ПарольSMTP</constants>
@@ -328,11 +329,11 @@
   <constants>Constant.РаботаСТорговымОборудованием</constants>
   <constants>Constant.СертификатМобильногоПриложенияIOS</constants>
   <constants>Constant.ТаймаутИнтернетПочты</constants>
-  <constants>Constant.ОтметкаНаФотоснимкеДата</constants>
+  <constants>Constant.ТолькоБесплатные</constants>
   <constants>Constant.ТолькоЗащищеннаяАутентификацияIMAP</constants>
   <constants>Constant.ТолькоЗащищеннаяАутентификацияPOP3</constants>
   <constants>Constant.ТолькоЗащищеннаяАутентификацияSMTP</constants>
-  <constants>Constant.ОтметкаНаФотоснимкеТекст</constants>
+  <constants>Constant.УчетПоСкладам</constants>
   <commonForms>CommonForm.ОбщиеНастройки</commonForms>
   <commonForms>CommonForm.НастройкиМобильногоУстройства</commonForms>
   <commonForms>CommonForm.НастройкаПочты</commonForms>
